@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop",
+    "title": "Quantum Stream Dashboard",
+    "description": "A real-time data visualization platform built for monitoring high-throughput telemetry data with sub-second latency.",
+    "tags": ["React", "TypeScript", "D3.js", "Socket.io"],
+    "repolink": "https://github.com/username/quantum-stream",
+    "demolink": "https://quantum-stream-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+    "title": "Zenith E-Commerce Engine",
+    "description": "A headless e-commerce solution featuring a custom cart logic, Stripe integration, and an automated inventory management system.",
+    "tags": ["Next.js", "Node.js", "Stripe", "PostgreSQL"],
+    "repolink": "https://github.com/username/zenith-shop",
+    "demolink": "https://zenith-ecommerce.netlify.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop",
+    "title": "Neural Notes AI",
+    "description": "An intelligent note-taking application that uses NLP to automatically categorize notes and generate summaries.",
+    "tags": ["Python", "TensorFlow", "FastAPI", "React Native"],
+    "repolink": "https://github.com/username/neural-notes",
+    "demolink": "https://neural-notes-ai.io"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=1000&auto=format&fit=crop",
+    "title": "CloudVault Storage",
+    "description": "A secure, encrypted cloud storage provider interface focusing on privacy-first file sharing and end-to-end encryption.",
+    "tags": ["Go", "AWS S3", "Docker", "Svelte"],
+    "repolink": "https://github.com/username/cloudvault",
+    "demolink": "https://cloudvault-secure.com"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop",
+    "title": "Lumina Social API",
+    "description": "A robust RESTful API designed for social media platforms, supporting complex relationship queries and media optimization.",
+    "tags": ["Express", "MongoDB", "Redis", "GraphQL"],
+    "repolink": "https://github.com/username/lumina-api",
+    "demolink": "https://lumina-api-docs.com"
+  }
+]
